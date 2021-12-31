@@ -1,0 +1,2 @@
+# Initializer
+#org.springframework.context.ApplicationContextInitializer=com.baozoubahashiqi.springboot.initializer.FirstApplicationContextInitializer,com.baozoubahashiqi.springboot.initializer.TwiceApplicationContextInitializer
